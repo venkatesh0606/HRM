@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/JavaProjects/!svn/ver/455/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/leave
+END
+LeaveListingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/leave/LeaveListingBean.java
+END
+LeaveManagementBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/JavaProjects/!svn/ver/480/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/leave/LeaveManagementBean.java
+END
+ApplyLeaveBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/JavaProjects/!svn/ver/499/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/leave/ApplyLeaveBean.java
+END

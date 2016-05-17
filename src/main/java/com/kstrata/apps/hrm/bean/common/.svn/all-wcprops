@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/JavaProjects/!svn/ver/456/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common
+END
+UserHomePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/JavaProjects/!svn/ver/443/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common/UserHomePath.java
+END
+SpringBeanInjectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/JavaProjects/!svn/ver/480/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common/SpringBeanInjectionProvider.java
+END
+NavigationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/JavaProjects/!svn/ver/480/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common/NavigationHelper.java
+END
+BaseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/JavaProjects/!svn/ver/473/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common/BaseBean.java
+END
+HRMHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JavaProjects/!svn/ver/471/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/bean/common/HRMHelper.java
+END

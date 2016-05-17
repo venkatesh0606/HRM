@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/JavaProjects/!svn/ver/456/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model
+END
+Paygrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Paygrade.java
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/JavaProjects/!svn/ver/458/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Employee.java
+END
+EmployeeProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/EmployeeProject.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Client.java
+END
+Attendance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JavaProjects/!svn/ver/486/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Attendance.java
+END
+EmployeeLeave.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/EmployeeLeave.java
+END
+Period.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Period.java
+END
+AuthenticationUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/AuthenticationUserDetails.java
+END
+EmploymentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/EmploymentStatus.java
+END
+ProjectConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JavaProjects/!svn/ver/470/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/ProjectConstant.java
+END
+Nationality.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Nationality.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Project.java
+END
+Holiday.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Holiday.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/Role.java
+END
+EmployeeLeaveDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JavaProjects/!svn/ver/453/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/EmployeeLeaveDay.java
+END
+TimeSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/JavaProjects/!svn/ver/460/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/model/TimeSheet.java
+END

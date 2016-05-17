@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/JavaProjects/!svn/ver/457/EployeePortal/branches/hrm/src/main/resources/spring
+END
+spring-dispatcher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/JavaProjects/!svn/ver/446/EployeePortal/branches/hrm/src/main/resources/spring/spring-dispatcher.xml
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/JavaProjects/!svn/ver/446/EployeePortal/branches/hrm/src/main/resources/spring/spring-security.xml
+END
+spring-hibernate-jpa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JavaProjects/!svn/ver/460/EployeePortal/branches/hrm/src/main/resources/spring/spring-hibernate-jpa.xml
+END
+spring-hibernate-jpa1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/resources/spring/spring-hibernate-jpa1.xml
+END
+spring-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/JavaProjects/!svn/ver/442/EployeePortal/branches/hrm/src/main/resources/spring/spring-properties.xml
+END
+spring-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/JavaProjects/!svn/ver/442/EployeePortal/branches/hrm/src/main/resources/spring/spring-web.xml
+END
+spring_sec_dbbeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/JavaProjects/!svn/ver/444/EployeePortal/branches/hrm/src/main/resources/spring/spring_sec_dbbeans.xml
+END

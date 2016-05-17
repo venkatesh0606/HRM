@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/JavaProjects/!svn/ver/457/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates
+END
+appTemplate.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/JavaProjects/!svn/ver/498/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/appTemplate.xhtml
+END
+footer.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/JavaProjects/!svn/ver/469/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/footer.xhtml
+END
+leftNav.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/JavaProjects/!svn/ver/486/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/leftNav.xhtml
+END
+loading.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/JavaProjects/!svn/ver/460/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/loading.xhtml
+END
+header.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/JavaProjects/!svn/ver/498/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/header.xhtml
+END
+mainContent.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/JavaProjects/!svn/ver/458/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/mainContent.xhtml
+END
+warningErrorPanel.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/JavaProjects/!svn/ver/483/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/warningErrorPanel.xhtml
+END
+pagination.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JavaProjects/!svn/ver/483/EployeePortal/branches/hrm/src/main/webapp/WEB-INF/templates/pagination.xhtml
+END

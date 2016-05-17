@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/JavaProjects/!svn/ver/456/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl
+END
+LeaveDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/LeaveDAOImpl.java
+END
+EncryptAndDecrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/EncryptAndDecrypt.java
+END
+EmpDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/EmpDAOImpl.java
+END
+AttendanceDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/JavaProjects/!svn/ver/458/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/AttendanceDAOImpl.java
+END
+ProjectConstantDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/JavaProjects/!svn/ver/455/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/ProjectConstantDAOImpl.java
+END
+EmployeeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/JavaProjects/!svn/ver/460/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/EmployeeDAOImpl.java
+END
+BaseDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/JavaProjects/!svn/ver/443/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/BaseDAOImpl.java
+END
+PeriodDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JavaProjects/!svn/ver/480/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/impl/PeriodDAOImpl.java
+END

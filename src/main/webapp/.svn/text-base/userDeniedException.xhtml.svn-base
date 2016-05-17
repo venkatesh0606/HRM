@@ -1,0 +1,29 @@
+<ui:composition template="/WEB-INF/templates/appTemplate.xhtml"
+	xmlns="http://www.w3.org/1999/xhtml" 
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:t="http://www.thegoodguys.com.au/core" xmlns:c="http://java.sun.com/jstl/core"
+	xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:a4j="http://richfaces.org/a4j" xmlns:rich="http://richfaces.org/rich">
+
+	<ui:define name="stylesheet">
+    	<link rel="stylesheet" type="text/css" href="../css/priceprotection.css" />
+    	<link rel="stylesheet" type="text/css" href="../css/maintenance.css" />
+  	</ui:define>
+  	
+  	<ui:define name="title">
+		<h:outputText value="Access Denied ERROR" />
+	</ui:define>
+	
+	<ui:define name="breadcrumb">
+        <h:outputText value="Access Denied ERROR" />
+    </ui:define>
+    
+	<ui:define name="content">
+		<span class="user_denied_error1">You are not allowed to access this application or page.</span>
+		<br />
+		<span class="user_denied_error2">Please refer this error to your system administrator.</span>  
+		<span><rich:messages /></span>
+	 </ui:define>
+	 
+</ui:composition>
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/JavaProjects/!svn/ver/456/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao
+END
+TimeSheetDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/JavaProjects/!svn/ver/452/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/TimeSheetDAO.java
+END
+RoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/JavaProjects/!svn/ver/452/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/RoleDAO.java
+END
+LeaveDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/LeaveDAO.java
+END
+EmpDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/JavaProjects/!svn/ver/496/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/EmpDAO.java
+END
+AttendanceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/JavaProjects/!svn/ver/458/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/AttendanceDAO.java
+END
+ProjectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/JavaProjects/!svn/ver/452/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/ProjectDAO.java
+END
+ClientDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/JavaProjects/!svn/ver/452/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/ClientDAO.java
+END
+EmployeeProjectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JavaProjects/!svn/ver/452/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/EmployeeProjectDAO.java
+END
+ProjectConstantDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/JavaProjects/!svn/ver/455/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/ProjectConstantDAO.java
+END
+EmployeeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/JavaProjects/!svn/ver/460/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/EmployeeDAO.java
+END
+PeriodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/JavaProjects/!svn/ver/449/EployeePortal/branches/hrm/src/main/java/com/kstrata/apps/hrm/dao/PeriodDAO.java
+END
